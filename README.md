@@ -41,7 +41,7 @@ Para realizar a entrega do seu desafio, siga os passos abaixo:
 5. **Finalize:** Faça o **Commit** das alterações com a mensagem "Entrega do Jogo no Scratch".
 
 ### 🔗 Link da minha entrega:
-> **COLE O LINK DO SEU JOGO AQUI:** [ESCREVA O LINK AQUI]
+> https://scratch.mit.edu/projects/12345678/
 
 ---
 *Dica: Lembre-se que o código será avaliado pela organização, então tente deixar seus blocos bem arrumados!*
